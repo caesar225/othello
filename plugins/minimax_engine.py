@@ -3,7 +3,7 @@ import time
 import math
 
 ENGINE_NAME = "Minimax AI"
-ENGINE_AUTHOR = "Your Name"
+ENGINE_AUTHOR = "AM"
 ENGINE_DESCRIPTION = "Minimax with Alpha-Beta pruning and a strategic heuristic."
 
 # Positional weights
